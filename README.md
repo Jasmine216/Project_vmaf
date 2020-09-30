@@ -2,7 +2,7 @@
 
 ## Data Analysis
 
-Files of [Data Analysis](Data Analysis) for datasets and results are provided.
+Files of [Data Analysis](Data Analysis/Analysis of results.ipynb) for results are provided.
 
 ## Usages
 There are a number of ways one can use the package:
