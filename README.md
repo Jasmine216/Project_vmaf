@@ -1,4 +1,9 @@
-# Project_vmaf
+# Attention-based Video Multi-method Assessment Fusion (VMAF)
+
+Video Multi-method Assessment Fusion (VMAF) is a video quality metric developed by Netflix to assess automatically the quality of content compressed under different conditions. VMAF was designed on the observation that some state-of-the-art quality metrics correlate well with human judgement for some particular compression artefacts but do not perform as well when the type of distortion is different. Given that lossy compression introduces a combination of the well-known blocking, blurring, ringing and motion artefacts, VMAF runs different state-of-the-art quality metrics devoted to assess a particular artefact and then combines the scores obtained using machine learning, more precisely a Support Vector Machine (SVM) classifier. The parameters used by such SVM have been trained over content representative of on demand video streaming and are provide as baseline configuration which is used to run the metric. The training has been performed by providing the SVM with the subjective scores associated with each video along with the values of the different state-of-the-art quality metrics considered in VMAF’s design. Worth noting that the subjective score provided for each video refers to the whole duration of the clip and doesn’t explicitly carry information on which areas of video frames contributed more to the final score. Having such local information would allow to optimise compression by improving image areas likely to draw more attention than others.
+
+Accordingly, the aim of this project is to improve the estimation of quality provided by VMAF by incorporating an attention model. Such model can be one chosen from the literature or derived by using data coming from camera eye trackers. The project will involve the use of the VMAF’s code base provided by Netflix to extend its workflow and accommodate the use of attention driven processing. Ad-hoc subjective tests are also expected to be designed to collect the data needed by the improved metric.
+
 
 ## Data Analysis
 
