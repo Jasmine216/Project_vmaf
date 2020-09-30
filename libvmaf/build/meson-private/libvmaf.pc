@@ -1,0 +1,9 @@
+prefix=/usr/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libvmaf
+Description: VMAF, Video Multimethod Assessment Fusion
+Version: 1.5.2
+Libs: -L${libdir} -lvmaf
+Cflags:-I${includedir}/libvmaf

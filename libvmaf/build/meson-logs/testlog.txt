@@ -1,0 +1,85 @@
+Log of Meson test suite run on 2020-07-28T15:56:51.864251
+
+Inherited environment: TERM_PROGRAM='Apple_Terminal' TERM='xterm-256color' SHELL='/bin/bash' TMPDIR='/var/folders/t0/pfg49bln4d9609677k2j2_f40000gp/T/' Apple_PubSub_Socket_Render='/private/tmp/com.apple.launchd.rXAN2y6NKx/Render' TERM_PROGRAM_VERSION='404.1' TERM_SESSION_ID='92CB9DB8-FD69-41BD-B8D7-C6A2A59E4466' USER='jessica' SSH_AUTH_SOCK='/private/tmp/com.apple.launchd.wM7DCtV58O/Listeners' PATH='/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/Cellar/python/3.7.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/mysql/bin:/usr/local/mysql/support-files:/usr/local/mysql/bin:/Users/jessica/.local/bin:/Users/jessica/.local/bin' _='/usr/local/Cellar/meson/0.54.2/libexec/bin/meson' PWD='/Users/jessica/CMT309/Project-VMAF/vmaf-master/libvmaf/build' LANG='zh_CN.UTF-8' XPC_FLAGS='0x0' XPC_SERVICE_NAME='0' HOME='/Users/jessica' SHLVL='2' LOGNAME='jessica' SECURITYSESSIONID='186a8' __CF_USER_TEXT_ENCODING='0x1F6:0x19:0x34' 
+
+1/7 test_picture           OK             0.04s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_picture
+--- stderr ---
+test_picture_alloc_ref_and_unref: [32mpass[0m
+test_picture_data_alignment: [32mpass[0m
+[32m2 tests run, 2 passed[0m
+-------
+
+2/7 test_feature_collector OK             0.02s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_feature_collector
+--- stderr ---
+test_feature_vector_init_append_and_destroy: [32mpass[0m
+test_feature_collector_init_append_get_and_destroy: [32mpass[0m
+[32m2 tests run, 2 passed[0m
+-------
+
+3/7 test_thread_pool       OK             0.02s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_thread_pool
+--- stdout ---
+thread pool test FPS: 24/1 
+--- stderr ---
+test_thread_pool_create_enqueue_wait_and_destroy: [32mpass[0m
+[32m1 tests run, 1 passed[0m
+-------
+
+4/7 test_model             OK             0.04s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_model
+--- stderr ---
+test_model_load_and_destroy: [32mpass[0m
+test_model_check_default_behavior_unset_flags: [32mpass[0m
+test_model_check_default_behavior_set_flags: [32mpass[0m
+test_model_set_flags: [32mpass[0m
+[32m4 tests run, 4 passed[0m
+-------
+
+5/7 test_predict           OK             0.03s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_predict
+--- stderr ---
+test_predict_score_at_index: [32mpass[0m
+[32m1 tests run, 1 passed[0m
+-------
+
+6/7 test_feature_extractor OK             0.09s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_feature_extractor
+--- stderr ---
+test_get_feature_extractor_by_name_and_feature_name: [32mpass[0m
+test_feature_extractor_context_pool: [32mpass[0m
+test_feature_extractor_flush: [32mpass[0m
+test_feature_extractor_initialization_options: [32mpass[0m
+[32m4 tests run, 4 passed[0m
+-------
+
+7/7 test_dict              OK             0.01s
+
+--- command ---
+07:56:51 /Users/jessica/CMT309/vmaf/libvmaf/build/test/test_dict
+--- stderr ---
+test_vmaf_dictionary: [32mpass[0m
+test_vmaf_dictionary_merge: [32mpass[0m
+[32m2 tests run, 2 passed[0m
+-------
+
+
+Ok:                 7   
+Expected Fail:      0   
+Fail:               0   
+Unexpected Pass:    0   
+Skipped:            0   
+Timeout:            0   

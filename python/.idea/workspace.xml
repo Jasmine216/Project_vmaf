@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffbbd480-ae49-4332-bacc-48f9e4d09137" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../libvmaf/include/libvmaf/libvmaf.rc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/include/libvmaf/libvmaf.rc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/adm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/adm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/adm.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/adm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/adm_tools.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/adm_tools.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/adm_tools.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/adm_tools.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/ansnr.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/ansnr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/ansnr.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/ansnr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/feature_extractor.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/feature_extractor.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/feature_extractor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/feature_extractor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/float_adm.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/float_adm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/float_ansnr.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/float_ansnr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/float_motion.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/float_motion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/float_psnr.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/float_psnr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/float_vif.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/float_vif.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/psnr.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/psnr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/psnr.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/psnr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/vif.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/vif.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/vif.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/vif.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/vif_tools.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/vif_tools.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/feature/vif_tools.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/feature/vif_tools.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/src/libvmaf.rc.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/src/libvmaf.rc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/test/test_feature_extractor.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/test/test_feature_extractor.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/tools/cli_parse.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/tools/cli_parse.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/tools/cli_parse.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/tools/cli_parse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libvmaf/tools/vmaf.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libvmaf/tools/vmaf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/core/asset.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/core/asset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/core/feature_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/core/feature_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/core/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/core/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/routine.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/routine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/script/ffmpeg2vmaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/script/ffmpeg2vmaf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/script/run_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/script/run_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/script/run_vmaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/script/run_vmaf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmaf/tools/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/vmaf/tools/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resource/dataset/NFLX_dataset_public.py" beforeDir="false" afterPath="$PROJECT_DIR$/../resource/dataset/NFLX_dataset_public.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="bb0a89de-573e-4b1f-ae8c-daa7d89a642e" />
+  <component name="ProjectId" id="1ex5xfz01Xf1rAVzwJW6f0LWSJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbbd480-ae49-4332-bacc-48f9e4d09137" name="Default Changelist" comment="" />
+      <created>1595250651838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595250651838</updated>
+      <workItem from="1595250655270" duration="24098000" />
+      <workItem from="1595898640599" duration="8434000" />
+      <workItem from="1596017254725" duration="71000" />
+      <workItem from="1596284700665" duration="10268000" />
+      <workItem from="1596693674702" duration="2414000" />
+      <workItem from="1596716875467" duration="2879000" />
+      <workItem from="1598769197177" duration="9163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595902204101">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="184" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1595902204101" />
+    <state x="416" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1598769197549">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="416" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.810@0.23.1440.810" timestamp="1596630761271" />
+    <state x="416" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1598769197549" />
+    <state x="416" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1596716883890" />
+    <state x="416" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1596285161870" />
+    <state x="416" y="246" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1596693676049" />
+  </component>
+</project>

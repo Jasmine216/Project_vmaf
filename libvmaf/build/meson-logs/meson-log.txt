@@ -1,0 +1,191 @@
+Build started at 2020-07-17T11:40:20.028019
+Main binary: /usr/local/opt/python@3.8/bin/python3.8
+Build Options: 
+Python system: Darwin
+The Meson build system
+Version: 0.54.2
+Source dir: /Users/jessica/CMT309/vmaf/libvmaf
+Build dir: /Users/jessica/CMT309/vmaf/libvmaf/build
+Build type: native build
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Project name: libvmaf
+Project version: 1.5.2
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.exe -pipe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (clang 10.0.0 "Apple LLVM version 10.0.0 (clang-1000.11.45.5)")
+C linker for the build machine: cc ld64 409.12
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.cc -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.exe -pipe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the build machine: c++ (clang 10.0.0 "Apple LLVM version 10.0.0 (clang-1000.11.45.5)")
+C++ linker for the build machine: c++ ld64 409.12
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.exe -pipe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (clang 10.0.0 "Apple LLVM version 10.0.0 (clang-1000.11.45.5)")
+C linker for the host machine: cc ld64 409.12
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.cc -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.exe -pipe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the host machine: c++ (clang 10.0.0 "Apple LLVM version 10.0.0 (clang-1000.11.45.5)")
+C++ linker for the host machine: c++ ld64 409.12
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Running compile:
+Working directory:  /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpder2xgjx
+Command line:  cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpder2xgjx/testfile.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpder2xgjx/output.obj -pipe -c -O0 -std=c99 
+
+Code:
+ 
+        #include <stdatomic.h>
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Check usable header "stdatomic.h" : YES 
+Configuring version.h using configuration
+Run-time dependency threads found: YES
+Running compile:
+Working directory:  /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpdkimc42r
+Command line:  cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpdkimc42r/testfile.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpdkimc42r/output.exe -pipe -O0 -lm -Wl,-undefined,dynamic_lookup 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library m found: YES
+Running compile:
+Working directory:  /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpal0pmzqf
+Command line:  cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpal0pmzqf/testfile.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpal0pmzqf/output.exe -pipe -O0 -std=c99 -Wl,-no_weak_imports 
+
+Code:
+ 
+        #define strsep meson_disable_define_of_strsep
+        
+        #include <limits.h>
+        #undef strsep
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char strsep (void);
+        
+        #if defined __stub_strsep || defined __stub___strsep
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return strsep ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "strsep" : YES 
+Program doxygen found: YES (/usr/local/bin/doxygen)
+Configuring Doxyfile using configuration
+Adding test "test_picture"
+Adding test "test_feature_collector"
+Adding test "test_thread_pool"
+Adding test "test_model"
+Adding test "test_predict"
+Adding test "test_feature_extractor"
+Adding test "test_dict"
+Build targets in project: 21
+
+Found ninja-1.10.0 at /usr/local/bin/ninja
+Running compile:
+Working directory:  /var/folders/t0/pfg49bln4d9609677k2j2_f40000gp/T/tmpia9zyyfe
+Command line:  c++ /var/folders/t0/pfg49bln4d9609677k2j2_f40000gp/T/tmpia9zyyfe/testfile.cpp -o /var/folders/t0/pfg49bln4d9609677k2j2_f40000gp/T/tmpia9zyyfe/output.obj -pipe -c -std=c++11 
+
+Code:
+ int i = static_cast<int>(0);
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler accepts -std=c++11: YES
+Running compile:
+Working directory:  /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpevnuh121
+Command line:  c++ /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpevnuh121/testfile.cpp -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmpevnuh121/output.obj -pipe -c -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ programs: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+libraries: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0
+
+Compiler stderr:
+ 
+Running compile:
+Working directory:  /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmplpf1he0x
+Command line:  cc /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmplpf1he0x/testfile.c -o /Users/jessica/CMT309/vmaf/libvmaf/build/meson-private/tmplpf1he0x/output.obj -pipe -c -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ programs: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+libraries: =/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0
+
+Compiler stderr:
+ 
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.

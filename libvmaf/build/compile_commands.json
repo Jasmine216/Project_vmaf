@@ -1,0 +1,656 @@
+[
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_m2pythontools.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_m2pythontools.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_m2pythontools.cc.o' -c ../src/third_party/ptools/m2pythontools.cc",
+    "file": "../src/third_party/ptools/m2pythontools.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_m2pythontools.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_valpython.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_valpython.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_valpython.cc.o' -c ../src/third_party/ptools/valpython.cc",
+    "file": "../src/third_party/ptools/valpython.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_valpython.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_midassocket.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_midassocket.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_midassocket.cc.o' -c ../src/third_party/ptools/midassocket.cc",
+    "file": "../src/third_party/ptools/midassocket.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_midassocket.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_valprotocol2.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_valprotocol2.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_valprotocol2.cc.o' -c ../src/third_party/ptools/valprotocol2.cc",
+    "file": "../src/third_party/ptools/valprotocol2.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_valprotocol2.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_m2ser.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_m2ser.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_m2ser.cc.o' -c ../src/third_party/ptools/m2ser.cc",
+    "file": "../src/third_party/ptools/m2ser.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_m2ser.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_m2streamdataenc.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_m2streamdataenc.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_m2streamdataenc.cc.o' -c ../src/third_party/ptools/m2streamdataenc.cc",
+    "file": "../src/third_party/ptools/m2streamdataenc.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_m2streamdataenc.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_m2convertrep.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_m2convertrep.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_m2convertrep.cc.o' -c ../src/third_party/ptools/m2convertrep.cc",
+    "file": "../src/third_party/ptools/m2convertrep.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_m2convertrep.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@ptools@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -fno-strict-aliasing -DLINUX_ -DOC_NEW_STYLE_INCLUDES -D_REENTRANT -MD -MQ 'src/25a6634@@ptools@sha/third_party_ptools_timeconv.cc.o' -MF 'src/25a6634@@ptools@sha/third_party_ptools_timeconv.cc.o.d' -o 'src/25a6634@@ptools@sha/third_party_ptools_timeconv.cc.o' -c ../src/third_party/ptools/timeconv.cc",
+    "file": "../src/third_party/ptools/timeconv.cc",
+    "output": "src/25a6634@@ptools@sha/third_party_ptools_timeconv.cc.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@convolution_and_psnr_avx@sta -Isrc -I../src -I../src/feature/common -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -mavx -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@convolution_and_psnr_avx@sta/feature_common_convolution_avx.c.o' -MF 'src/25a6634@@convolution_and_psnr_avx@sta/feature_common_convolution_avx.c.o.d' -o 'src/25a6634@@convolution_and_psnr_avx@sta/feature_common_convolution_avx.c.o' -c ../src/feature/common/convolution_avx.c",
+    "file": "../src/feature/common/convolution_avx.c",
+    "output": "src/25a6634@@convolution_and_psnr_avx@sta/feature_common_convolution_avx.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@convolution_and_psnr_avx@sta -Isrc -I../src -I../src/feature/common -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -mavx -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@convolution_and_psnr_avx@sta/feature_psnr_tools.c.o' -MF 'src/25a6634@@convolution_and_psnr_avx@sta/feature_psnr_tools.c.o.d' -o 'src/25a6634@@convolution_and_psnr_avx@sta/feature_psnr_tools.c.o' -c ../src/feature/psnr_tools.c",
+    "file": "../src/feature/psnr_tools.c",
+    "output": "src/25a6634@@convolution_and_psnr_avx@sta/feature_psnr_tools.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_common_alignment.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_common_alignment.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_common_alignment.c.o' -c ../src/feature/common/alignment.c",
+    "file": "../src/feature/common/alignment.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_common_alignment.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_common_convolution.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_common_convolution.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_common_convolution.c.o' -c ../src/feature/common/convolution.c",
+    "file": "../src/feature/common/convolution.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_common_convolution.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_common_cpu.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_common_cpu.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_common_cpu.c.o' -c ../src/feature/common/cpu.c",
+    "file": "../src/feature/common/cpu.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_common_cpu.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_offset.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_offset.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_offset.c.o' -c ../src/feature/offset.c",
+    "file": "../src/feature/offset.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_offset.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_adm.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_adm.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_adm.c.o' -c ../src/feature/adm.c",
+    "file": "../src/feature/adm.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_adm.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_adm_tools.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_adm_tools.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_adm_tools.c.o' -c ../src/feature/adm_tools.c",
+    "file": "../src/feature/adm_tools.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_adm_tools.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_ansnr.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_ansnr.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_ansnr.c.o' -c ../src/feature/ansnr.c",
+    "file": "../src/feature/ansnr.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_ansnr.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_ansnr_tools.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_ansnr_tools.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_ansnr_tools.c.o' -c ../src/feature/ansnr_tools.c",
+    "file": "../src/feature/ansnr_tools.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_ansnr_tools.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_vif.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_vif.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_vif.c.o' -c ../src/feature/vif.c",
+    "file": "../src/feature/vif.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_vif.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_vif_tools.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_vif_tools.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_vif_tools.c.o' -c ../src/feature/vif_tools.c",
+    "file": "../src/feature/vif_tools.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_vif_tools.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_motion.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_motion.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_motion.c.o' -c ../src/feature/motion.c",
+    "file": "../src/feature/motion.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_motion.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_psnr.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_psnr.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_psnr.c.o' -c ../src/feature/psnr.c",
+    "file": "../src/feature/psnr.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_psnr.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_ssim.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_ssim.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_ssim.c.o' -c ../src/feature/ssim.c",
+    "file": "../src/feature/ssim.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_ssim.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_ms_ssim.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_ms_ssim.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_ms_ssim.c.o' -c ../src/feature/ms_ssim.c",
+    "file": "../src/feature/ms_ssim.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_ms_ssim.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_moment.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_moment.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_moment.c.o' -c ../src/feature/moment.c",
+    "file": "../src/feature/moment.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_moment.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_all.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_all.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_all.c.o' -c ../src/feature/all.c",
+    "file": "../src/feature/all.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_all.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_common_blur_array.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_common_blur_array.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_common_blur_array.c.o' -c ../src/feature/common/blur_array.c",
+    "file": "../src/feature/common/blur_array.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_common_blur_array.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_iqa_math_utils.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_iqa_math_utils.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_iqa_math_utils.c.o' -c ../src/feature/iqa/math_utils.c",
+    "file": "../src/feature/iqa/math_utils.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_iqa_math_utils.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_iqa_convolve.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_iqa_convolve.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_iqa_convolve.c.o' -c ../src/feature/iqa/convolve.c",
+    "file": "../src/feature/iqa/convolve.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_iqa_convolve.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_iqa_decimate.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_iqa_decimate.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_iqa_decimate.c.o' -c ../src/feature/iqa/decimate.c",
+    "file": "../src/feature/iqa/decimate.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_iqa_decimate.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_feature@sta/feature_iqa_ssim_tools.c.o' -MF 'src/25a6634@@libvmaf_feature@sta/feature_iqa_ssim_tools.c.o.d' -o 'src/25a6634@@libvmaf_feature@sta/feature_iqa_ssim_tools.c.o' -c ../src/feature/iqa/ssim_tools.c",
+    "file": "../src/feature/iqa/ssim_tools.c",
+    "output": "src/25a6634@@libvmaf_feature@sta/feature_iqa_ssim_tools.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/third_party_pugixml_pugixml.cpp.o' -MF 'src/25a6634@@vmaf@sha/third_party_pugixml_pugixml.cpp.o.d' -o 'src/25a6634@@vmaf@sha/third_party_pugixml_pugixml.cpp.o' -c ../src/third_party/pugixml/pugixml.cpp",
+    "file": "../src/third_party/pugixml/pugixml.cpp",
+    "output": "src/25a6634@@vmaf@sha/third_party_pugixml_pugixml.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/mem.c.o' -MF 'src/25a6634@@vmaf@sha/mem.c.o.d' -o 'src/25a6634@@vmaf@sha/mem.c.o' -c ../src/mem.c",
+    "file": "../src/mem.c",
+    "output": "src/25a6634@@vmaf@sha/mem.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/combo.c.o' -MF 'src/25a6634@@vmaf@sha/combo.c.o.d' -o 'src/25a6634@@vmaf@sha/combo.c.o' -c ../src/combo.c",
+    "file": "../src/combo.c",
+    "output": "src/25a6634@@vmaf@sha/combo.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/cpu_info.c.o' -MF 'src/25a6634@@vmaf@sha/cpu_info.c.o.d' -o 'src/25a6634@@vmaf@sha/cpu_info.c.o' -c ../src/cpu_info.c",
+    "file": "../src/cpu_info.c",
+    "output": "src/25a6634@@vmaf@sha/cpu_info.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/svm.cpp.o' -MF 'src/25a6634@@vmaf@sha/svm.cpp.o.d' -o 'src/25a6634@@vmaf@sha/svm.cpp.o' -c ../src/svm.cpp",
+    "file": "../src/svm.cpp",
+    "output": "src/25a6634@@vmaf@sha/svm.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/darray.c.o' -MF 'src/25a6634@@vmaf@sha/darray.c.o.d' -o 'src/25a6634@@vmaf@sha/darray.c.o' -c ../src/darray.c",
+    "file": "../src/darray.c",
+    "output": "src/25a6634@@vmaf@sha/darray.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/libvmaf.cpp.o' -MF 'src/25a6634@@vmaf@sha/libvmaf.cpp.o.d' -o 'src/25a6634@@vmaf@sha/libvmaf.cpp.o' -c ../src/libvmaf.cpp",
+    "file": "../src/libvmaf.cpp",
+    "output": "src/25a6634@@vmaf@sha/libvmaf.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf@sha/vmaf.cpp.o' -MF 'src/25a6634@@vmaf@sha/vmaf.cpp.o.d' -o 'src/25a6634@@vmaf@sha/vmaf.cpp.o' -c ../src/vmaf.cpp",
+    "file": "../src/vmaf.cpp",
+    "output": "src/25a6634@@vmaf@sha/vmaf.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_picture_copy.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_picture_copy.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_picture_copy.c.o' -c ../src/feature/picture_copy.c",
+    "file": "../src/feature/picture_copy.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_picture_copy.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_psnr.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_psnr.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_psnr.c.o' -c ../src/feature/integer_psnr.c",
+    "file": "../src/feature/integer_psnr.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_integer_psnr.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_extractor.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_extractor.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_extractor.c.o' -c ../src/feature/feature_extractor.c",
+    "file": "../src/feature/feature_extractor.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_feature_extractor.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_alias.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_alias.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_alias.c.o' -c ../src/feature/alias.c",
+    "file": "../src/feature/alias.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_alias.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_adm.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_adm.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_adm.c.o' -c ../src/feature/float_adm.c",
+    "file": "../src/feature/float_adm.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_adm.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_adm.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_adm.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_adm.c.o' -c ../src/feature/integer_adm.c",
+    "file": "../src/feature/integer_adm.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_integer_adm.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_collector.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_collector.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_feature_collector.c.o' -c ../src/feature/feature_collector.c",
+    "file": "../src/feature/feature_collector.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_feature_collector.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_psnr.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_psnr.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_psnr.c.o' -c ../src/feature/float_psnr.c",
+    "file": "../src/feature/float_psnr.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_psnr.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ansnr.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ansnr.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ansnr.c.o' -c ../src/feature/float_ansnr.c",
+    "file": "../src/feature/float_ansnr.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_ansnr.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_motion.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_motion.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_motion.c.o' -c ../src/feature/integer_motion.c",
+    "file": "../src/feature/integer_motion.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_integer_motion.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_motion.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_motion.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_motion.c.o' -c ../src/feature/float_motion.c",
+    "file": "../src/feature/float_motion.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_motion.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ssim.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ssim.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ssim.c.o' -c ../src/feature/float_ssim.c",
+    "file": "../src/feature/float_ssim.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_ssim.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ms_ssim.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ms_ssim.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_ms_ssim.c.o' -c ../src/feature/float_ms_ssim.c",
+    "file": "../src/feature/float_ms_ssim.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_ms_ssim.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_vif.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_vif.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_vif.c.o' -c ../src/feature/float_vif.c",
+    "file": "../src/feature/float_vif.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_vif.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_vif.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_vif.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_vif.c.o' -c ../src/feature/integer_vif.c",
+    "file": "../src/feature/integer_vif.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_integer_vif.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_ssim.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_ssim.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_integer_ssim.c.o' -c ../src/feature/integer_ssim.c",
+    "file": "../src/feature/integer_ssim.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_integer_ssim.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@libvmaf_rc_feature@sta -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -Iinclude -I../include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_moment.c.o' -MF 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_moment.c.o.d' -o 'src/25a6634@@libvmaf_rc_feature@sta/feature_float_moment.c.o' -c ../src/feature/float_moment.c",
+    "file": "../src/feature/float_moment.c",
+    "output": "src/25a6634@@libvmaf_rc_feature@sta/feature_float_moment.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/libvmaf.rc.c.o' -MF 'src/25a6634@@vmaf_rc@sha/libvmaf.rc.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/libvmaf.rc.c.o' -c ../src/libvmaf.rc.c",
+    "file": "../src/libvmaf.rc.c",
+    "output": "src/25a6634@@vmaf_rc@sha/libvmaf.rc.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/predict.c.o' -MF 'src/25a6634@@vmaf_rc@sha/predict.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/predict.c.o' -c ../src/predict.c",
+    "file": "../src/predict.c",
+    "output": "src/25a6634@@vmaf_rc@sha/predict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/model.c.o' -MF 'src/25a6634@@vmaf_rc@sha/model.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/model.c.o' -c ../src/model.c",
+    "file": "../src/model.c",
+    "output": "src/25a6634@@vmaf_rc@sha/model.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/unpickle.cpp.o' -MF 'src/25a6634@@vmaf_rc@sha/unpickle.cpp.o.d' -o 'src/25a6634@@vmaf_rc@sha/unpickle.cpp.o' -c ../src/unpickle.cpp",
+    "file": "../src/unpickle.cpp",
+    "output": "src/25a6634@@vmaf_rc@sha/unpickle.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/svm.cpp.o' -MF 'src/25a6634@@vmaf_rc@sha/svm.cpp.o.d' -o 'src/25a6634@@vmaf_rc@sha/svm.cpp.o' -c ../src/svm.cpp",
+    "file": "../src/svm.cpp",
+    "output": "src/25a6634@@vmaf_rc@sha/svm.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/picture.c.o' -MF 'src/25a6634@@vmaf_rc@sha/picture.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/picture.c.o' -c ../src/picture.c",
+    "file": "../src/picture.c",
+    "output": "src/25a6634@@vmaf_rc@sha/picture.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/mem.c.o' -MF 'src/25a6634@@vmaf_rc@sha/mem.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/mem.c.o' -c ../src/mem.c",
+    "file": "../src/mem.c",
+    "output": "src/25a6634@@vmaf_rc@sha/mem.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/output.c.o' -MF 'src/25a6634@@vmaf_rc@sha/output.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/output.c.o' -c ../src/output.c",
+    "file": "../src/output.c",
+    "output": "src/25a6634@@vmaf_rc@sha/output.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/fex_ctx_vector.c.o' -MF 'src/25a6634@@vmaf_rc@sha/fex_ctx_vector.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/fex_ctx_vector.c.o' -c ../src/fex_ctx_vector.c",
+    "file": "../src/fex_ctx_vector.c",
+    "output": "src/25a6634@@vmaf_rc@sha/fex_ctx_vector.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/thread_pool.c.o' -MF 'src/25a6634@@vmaf_rc@sha/thread_pool.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/thread_pool.c.o' -c ../src/thread_pool.c",
+    "file": "../src/thread_pool.c",
+    "output": "src/25a6634@@vmaf_rc@sha/thread_pool.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/dict.c.o' -MF 'src/25a6634@@vmaf_rc@sha/dict.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/dict.c.o' -c ../src/dict.c",
+    "file": "../src/dict.c",
+    "output": "src/25a6634@@vmaf_rc@sha/dict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Isrc/25a6634@@vmaf_rc@sha -Isrc -I../src -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'src/25a6634@@vmaf_rc@sha/opt.c.o' -MF 'src/25a6634@@vmaf_rc@sha/opt.c.o.d' -o 'src/25a6634@@vmaf_rc@sha/opt.c.o' -c ../src/opt.c",
+    "file": "../src/opt.c",
+    "output": "src/25a6634@@vmaf_rc@sha/opt.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Itools/f9d35d4@@vmafossexec@exe -Itools -I../tools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'tools/f9d35d4@@vmafossexec@exe/main.cpp.o' -MF 'tools/f9d35d4@@vmafossexec@exe/main.cpp.o.d' -o 'tools/f9d35d4@@vmafossexec@exe/main.cpp.o' -c ../tools/main.cpp",
+    "file": "../tools/main.cpp",
+    "output": "tools/f9d35d4@@vmafossexec@exe/main.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmafossexec@exe -Itools -I../tools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'tools/f9d35d4@@vmafossexec@exe/read_frame.c.o' -MF 'tools/f9d35d4@@vmafossexec@exe/read_frame.c.o.d' -o 'tools/f9d35d4@@vmafossexec@exe/read_frame.c.o' -c ../tools/read_frame.c",
+    "file": "../tools/read_frame.c",
+    "output": "tools/f9d35d4@@vmafossexec@exe/read_frame.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_rc@exe -Itools -I../tools -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -Isrc -I../src -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -DHAVE_STRSEP -MD -MQ 'tools/f9d35d4@@vmaf_rc@exe/vmaf.c.o' -MF 'tools/f9d35d4@@vmaf_rc@exe/vmaf.c.o.d' -o 'tools/f9d35d4@@vmaf_rc@exe/vmaf.c.o' -c ../tools/vmaf.c",
+    "file": "../tools/vmaf.c",
+    "output": "tools/f9d35d4@@vmaf_rc@exe/vmaf.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_rc@exe -Itools -I../tools -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -Isrc -I../src -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -DHAVE_STRSEP -MD -MQ 'tools/f9d35d4@@vmaf_rc@exe/cli_parse.c.o' -MF 'tools/f9d35d4@@vmaf_rc@exe/cli_parse.c.o.d' -o 'tools/f9d35d4@@vmaf_rc@exe/cli_parse.c.o' -c ../tools/cli_parse.c",
+    "file": "../tools/cli_parse.c",
+    "output": "tools/f9d35d4@@vmaf_rc@exe/cli_parse.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_rc@exe -Itools -I../tools -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -Isrc -I../src -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -DHAVE_STRSEP -MD -MQ 'tools/f9d35d4@@vmaf_rc@exe/y4m_input.c.o' -MF 'tools/f9d35d4@@vmaf_rc@exe/y4m_input.c.o.d' -o 'tools/f9d35d4@@vmaf_rc@exe/y4m_input.c.o' -c ../tools/y4m_input.c",
+    "file": "../tools/y4m_input.c",
+    "output": "tools/f9d35d4@@vmaf_rc@exe/y4m_input.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_rc@exe -Itools -I../tools -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -Isrc -I../src -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -DHAVE_STRSEP -MD -MQ 'tools/f9d35d4@@vmaf_rc@exe/vidinput.c.o' -MF 'tools/f9d35d4@@vmaf_rc@exe/vidinput.c.o.d' -o 'tools/f9d35d4@@vmaf_rc@exe/vidinput.c.o' -c ../tools/vidinput.c",
+    "file": "../tools/vidinput.c",
+    "output": "tools/f9d35d4@@vmaf_rc@exe/vidinput.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_rc@exe -Itools -I../tools -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -Isrc -I../src -I../src/feature -I../src/feature/common -I../src/third_party/ptools -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -DHAVE_STRSEP -MD -MQ 'tools/f9d35d4@@vmaf_rc@exe/yuv_input.c.o' -MF 'tools/f9d35d4@@vmaf_rc@exe/yuv_input.c.o.d' -o 'tools/f9d35d4@@vmaf_rc@exe/yuv_input.c.o' -c ../tools/yuv_input.c",
+    "file": "../tools/yuv_input.c",
+    "output": "tools/f9d35d4@@vmaf_rc@exe/yuv_input.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_feature@exe -Itools -I../tools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'tools/f9d35d4@@vmaf_feature@exe/vmaf_feature_main.c.o' -MF 'tools/f9d35d4@@vmaf_feature@exe/vmaf_feature_main.c.o.d' -o 'tools/f9d35d4@@vmaf_feature@exe/vmaf_feature_main.c.o' -c ../tools/vmaf_feature_main.c",
+    "file": "../tools/vmaf_feature_main.c",
+    "output": "tools/f9d35d4@@vmaf_feature@exe/vmaf_feature_main.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itools/f9d35d4@@vmaf_feature@exe -Itools -I../tools -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'tools/f9d35d4@@vmaf_feature@exe/read_frame.c.o' -MF 'tools/f9d35d4@@vmaf_feature@exe/read_frame.c.o.d' -o 'tools/f9d35d4@@vmaf_feature@exe/read_frame.c.o' -c ../tools/read_frame.c",
+    "file": "../tools/read_frame.c",
+    "output": "tools/f9d35d4@@vmaf_feature@exe/read_frame.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_context@exe -Itest -I../test -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_context@exe/test.c.o' -MF 'test/9f86d08@@test_context@exe/test.c.o.d' -o 'test/9f86d08@@test_context@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_context@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_context@exe -Itest -I../test -Iinclude -I../include -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_context@exe/test_context.c.o' -MF 'test/9f86d08@@test_context@exe/test_context.c.o.d' -o 'test/9f86d08@@test_context@exe/test_context.c.o' -c ../test/test_context.c",
+    "file": "../test/test_context.c",
+    "output": "test/9f86d08@@test_context@exe/test_context.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_picture@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_picture@exe/test.c.o' -MF 'test/9f86d08@@test_picture@exe/test.c.o.d' -o 'test/9f86d08@@test_picture@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_picture@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_picture@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_picture@exe/test_picture.c.o' -MF 'test/9f86d08@@test_picture@exe/test_picture.c.o.d' -o 'test/9f86d08@@test_picture@exe/test_picture.c.o' -c ../test/test_picture.c",
+    "file": "../test/test_picture.c",
+    "output": "test/9f86d08@@test_picture@exe/test_picture.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_picture@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_picture@exe/.._src_picture.c.o' -MF 'test/9f86d08@@test_picture@exe/.._src_picture.c.o.d' -o 'test/9f86d08@@test_picture@exe/.._src_picture.c.o' -c ../src/picture.c",
+    "file": "../src/picture.c",
+    "output": "test/9f86d08@@test_picture@exe/.._src_picture.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_picture@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_picture@exe/.._src_mem.c.o' -MF 'test/9f86d08@@test_picture@exe/.._src_mem.c.o.d' -o 'test/9f86d08@@test_picture@exe/.._src_mem.c.o' -c ../src/mem.c",
+    "file": "../src/mem.c",
+    "output": "test/9f86d08@@test_picture@exe/.._src_mem.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_collector@exe -Itest -I../test -Iinclude -I../include -I../src/feature -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_collector@exe/test.c.o' -MF 'test/9f86d08@@test_feature_collector@exe/test.c.o.d' -o 'test/9f86d08@@test_feature_collector@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_feature_collector@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_collector@exe -Itest -I../test -Iinclude -I../include -I../src/feature -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_collector@exe/test_feature_collector.c.o' -MF 'test/9f86d08@@test_feature_collector@exe/test_feature_collector.c.o.d' -o 'test/9f86d08@@test_feature_collector@exe/test_feature_collector.c.o' -c ../test/test_feature_collector.c",
+    "file": "../test/test_feature_collector.c",
+    "output": "test/9f86d08@@test_feature_collector@exe/test_feature_collector.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_thread_pool@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_thread_pool@exe/test.c.o' -MF 'test/9f86d08@@test_thread_pool@exe/test.c.o.d' -o 'test/9f86d08@@test_thread_pool@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_thread_pool@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_thread_pool@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_thread_pool@exe/test_thread_pool.c.o' -MF 'test/9f86d08@@test_thread_pool@exe/test_thread_pool.c.o.d' -o 'test/9f86d08@@test_thread_pool@exe/test_thread_pool.c.o' -c ../test/test_thread_pool.c",
+    "file": "../test/test_thread_pool.c",
+    "output": "test/9f86d08@@test_thread_pool@exe/test_thread_pool.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_thread_pool@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_thread_pool@exe/.._src_thread_pool.c.o' -MF 'test/9f86d08@@test_thread_pool@exe/.._src_thread_pool.c.o.d' -o 'test/9f86d08@@test_thread_pool@exe/.._src_thread_pool.c.o' -c ../src/thread_pool.c",
+    "file": "../src/thread_pool.c",
+    "output": "test/9f86d08@@test_thread_pool@exe/.._src_thread_pool.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_model@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_model@exe/test.c.o' -MF 'test/9f86d08@@test_model@exe/test.c.o.d' -o 'test/9f86d08@@test_model@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_model@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_model@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_model@exe/test_model.c.o' -MF 'test/9f86d08@@test_model@exe/test_model.c.o.d' -o 'test/9f86d08@@test_model@exe/test_model.c.o' -c ../test/test_model.c",
+    "file": "../test/test_model.c",
+    "output": "test/9f86d08@@test_model@exe/test_model.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_model@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_model@exe/.._src_dict.c.o' -MF 'test/9f86d08@@test_model@exe/.._src_dict.c.o.d' -o 'test/9f86d08@@test_model@exe/.._src_dict.c.o' -c ../src/dict.c",
+    "file": "../src/dict.c",
+    "output": "test/9f86d08@@test_model@exe/.._src_dict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Itest/9f86d08@@test_model@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_model@exe/.._src_svm.cpp.o' -MF 'test/9f86d08@@test_model@exe/.._src_svm.cpp.o.d' -o 'test/9f86d08@@test_model@exe/.._src_svm.cpp.o' -c ../src/svm.cpp",
+    "file": "../src/svm.cpp",
+    "output": "test/9f86d08@@test_model@exe/.._src_svm.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Itest/9f86d08@@test_model@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_model@exe/.._src_unpickle.cpp.o' -MF 'test/9f86d08@@test_model@exe/.._src_unpickle.cpp.o.d' -o 'test/9f86d08@@test_model@exe/.._src_unpickle.cpp.o' -c ../src/unpickle.cpp",
+    "file": "../src/unpickle.cpp",
+    "output": "test/9f86d08@@test_model@exe/.._src_unpickle.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/test.c.o' -MF 'test/9f86d08@@test_predict@exe/test.c.o.d' -o 'test/9f86d08@@test_predict@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_predict@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/test_predict.c.o' -MF 'test/9f86d08@@test_predict@exe/test_predict.c.o.d' -o 'test/9f86d08@@test_predict@exe/test_predict.c.o' -c ../test/test_predict.c",
+    "file": "../test/test_predict.c",
+    "output": "test/9f86d08@@test_predict@exe/test_predict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_predict.c.o' -MF 'test/9f86d08@@test_predict@exe/.._src_predict.c.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_predict.c.o' -c ../src/predict.c",
+    "file": "../src/predict.c",
+    "output": "test/9f86d08@@test_predict@exe/.._src_predict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_dict.c.o' -MF 'test/9f86d08@@test_predict@exe/.._src_dict.c.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_dict.c.o' -c ../src/dict.c",
+    "file": "../src/dict.c",
+    "output": "test/9f86d08@@test_predict@exe/.._src_dict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_feature_feature_collector.c.o' -MF 'test/9f86d08@@test_predict@exe/.._src_feature_feature_collector.c.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_feature_feature_collector.c.o' -c ../src/feature/feature_collector.c",
+    "file": "../src/feature/feature_collector.c",
+    "output": "test/9f86d08@@test_predict@exe/.._src_feature_feature_collector.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_model.c.o' -MF 'test/9f86d08@@test_predict@exe/.._src_model.c.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_model.c.o' -c ../src/model.c",
+    "file": "../src/model.c",
+    "output": "test/9f86d08@@test_predict@exe/.._src_model.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_svm.cpp.o' -MF 'test/9f86d08@@test_predict@exe/.._src_svm.cpp.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_svm.cpp.o' -c ../src/svm.cpp",
+    "file": "../src/svm.cpp",
+    "output": "test/9f86d08@@test_predict@exe/.._src_svm.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "c++ -Itest/9f86d08@@test_predict@exe -Itest -I../test -Iinclude -I../include -I../src/third_party/ptools/opencontainers_1_8_4/include -I../src/third_party/ptools -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -std=c++11 -O3 -pedantic -DOC_NEW_STYLE_INCLUDES -MD -MQ 'test/9f86d08@@test_predict@exe/.._src_unpickle.cpp.o' -MF 'test/9f86d08@@test_predict@exe/.._src_unpickle.cpp.o.d' -o 'test/9f86d08@@test_predict@exe/.._src_unpickle.cpp.o' -c ../src/unpickle.cpp",
+    "file": "../src/unpickle.cpp",
+    "output": "test/9f86d08@@test_predict@exe/.._src_unpickle.cpp.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/test.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/test.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/test_feature_extractor.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/test_feature_extractor.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/test_feature_extractor.c.o' -c ../test/test_feature_extractor.c",
+    "file": "../test/test_feature_extractor.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/test_feature_extractor.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/.._src_mem.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/.._src_mem.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/.._src_mem.c.o' -c ../src/mem.c",
+    "file": "../src/mem.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/.._src_mem.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/.._src_picture.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/.._src_picture.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/.._src_picture.c.o' -c ../src/picture.c",
+    "file": "../src/picture.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/.._src_picture.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/.._src_dict.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/.._src_dict.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/.._src_dict.c.o' -c ../src/dict.c",
+    "file": "../src/dict.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/.._src_dict.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_feature_extractor@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_feature_extractor@exe/.._src_opt.c.o' -MF 'test/9f86d08@@test_feature_extractor@exe/.._src_opt.c.o.d' -o 'test/9f86d08@@test_feature_extractor@exe/.._src_opt.c.o' -c ../src/opt.c",
+    "file": "../src/opt.c",
+    "output": "test/9f86d08@@test_feature_extractor@exe/.._src_opt.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_dict@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_dict@exe/test.c.o' -MF 'test/9f86d08@@test_dict@exe/test.c.o.d' -o 'test/9f86d08@@test_dict@exe/test.c.o' -c ../test/test.c",
+    "file": "../test/test.c",
+    "output": "test/9f86d08@@test_dict@exe/test.c.o"
+  },
+  {
+    "directory": "/Users/jessica/CMT309/vmaf/libvmaf/build",
+    "command": "cc -Itest/9f86d08@@test_dict@exe -Itest -I../test -Iinclude -I../include -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -Wextra -std=c99 -O3 -D_DARWIN_C_SOURCE -MD -MQ 'test/9f86d08@@test_dict@exe/test_dict.c.o' -MF 'test/9f86d08@@test_dict@exe/test_dict.c.o.d' -o 'test/9f86d08@@test_dict@exe/test_dict.c.o' -c ../test/test_dict.c",
+    "file": "../test/test_dict.c",
+    "output": "test/9f86d08@@test_dict@exe/test_dict.c.o"
+  }
+]

@@ -1,0 +1,8 @@
+prefix=/Users/jessica/CMT309/vmaf/libvmaf/build
+srcdir=/Users/jessica/CMT309/vmaf/libvmaf
+
+Name: libvmaf
+Description: VMAF, Video Multimethod Assessment Fusion
+Version: 1.5.2
+Libs: -L${prefix}/src -lvmaf
+Cflags:-I${prefix}/src -I${srcdir}/src -I${prefix}/src/./third_party/ptools/opencontainers_1_8_4/include -I${srcdir}/src/./third_party/ptools/opencontainers_1_8_4/include -I${prefix}/src/./ -I${srcdir}/src/./ -I${prefix}/src/./feature/ -I${srcdir}/src/./feature/ -I${prefix}/src/./feature/common -I${srcdir}/src/./feature/common -I${prefix}/src/./third_party/ptools/ -I${srcdir}/src/./third_party/ptools/
